@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseKey_template", "LicenseKey_template\LicenseKey_template.csproj", "{412A109C-B484-42FF-B35C-FB8DA1D89CE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern", "Pattern\Pattern.csproj", "{8F459ABB-0D0D-4476-855A-A6438863CE70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyGen", "KeyGen\KeyGen.csproj", "{33F75205-6017-4F25-AD4E-7DA5442DAE1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{412A109C-B484-42FF-B35C-FB8DA1D89CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{412A109C-B484-42FF-B35C-FB8DA1D89CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{412A109C-B484-42FF-B35C-FB8DA1D89CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F459ABB-0D0D-4476-855A-A6438863CE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F459ABB-0D0D-4476-855A-A6438863CE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F459ABB-0D0D-4476-855A-A6438863CE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F459ABB-0D0D-4476-855A-A6438863CE70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F75205-6017-4F25-AD4E-7DA5442DAE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F75205-6017-4F25-AD4E-7DA5442DAE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F75205-6017-4F25-AD4E-7DA5442DAE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F75205-6017-4F25-AD4E-7DA5442DAE1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,3 +15,6 @@ C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\ne
 C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\LicenseKey_template.pdb
 C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\LicenseKey_template.genruntimeconfig.cache
 C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\ref\LicenseKey_template.dll
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\bin\Debug\net6.0-windows\Pattern.dll
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\bin\Debug\net6.0-windows\Pattern.pdb
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\LicenseKey_template.csproj.CopyComplete

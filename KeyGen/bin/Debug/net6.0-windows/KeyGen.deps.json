@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KeyGen/1.0.0": {
+        "dependencies": {
+          "Pattern": "1.0.0"
+        },
+        "runtime": {
+          "KeyGen.dll": {}
+        }
+      },
+      "Pattern/1.0.0": {
+        "runtime": {
+          "Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KeyGen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

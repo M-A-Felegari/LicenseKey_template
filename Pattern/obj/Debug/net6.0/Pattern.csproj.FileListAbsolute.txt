@@ -1,0 +1,12 @@
+C:\Users\Alien\source\repos\LicenseKey_template\Pattern\bin\Debug\net6.0\Pattern.deps.json
+C:\Users\Alien\source\repos\LicenseKey_template\Pattern\bin\Debug\net6.0\Pattern.dll
+C:\Users\Alien\source\repos\LicenseKey_template\Pattern\bin\Debug\net6.0\Pattern.pdb
+C:\Users\Alien\source\repos\LicenseKey_template\Pattern\obj\Debug\net6.0\Pattern.csproj.AssemblyReference.cache
+C:\Users\Alien\source\repos\LicenseKey_template\Pattern\obj\Debug\net6.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\source\repos\LicenseKey_template\Pattern\obj\Debug\net6.0\Pattern.AssemblyInfoInputs.cache
+C:\Users\Alien\source\repos\LicenseKey_template\Pattern\obj\Debug\net6.0\Pattern.AssemblyInfo.cs
+C:\Users\Alien\source\repos\LicenseKey_template\Pattern\obj\Debug\net6.0\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Alien\source\repos\LicenseKey_template\Pattern\obj\Debug\net6.0\Pattern.dll
+C:\Users\Alien\source\repos\LicenseKey_template\Pattern\obj\Debug\net6.0\refint\Pattern.dll
+C:\Users\Alien\source\repos\LicenseKey_template\Pattern\obj\Debug\net6.0\Pattern.pdb
+C:\Users\Alien\source\repos\LicenseKey_template\Pattern\obj\Debug\net6.0\ref\Pattern.dll
