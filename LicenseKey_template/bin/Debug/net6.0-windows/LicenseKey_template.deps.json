@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LicenseKey_template/1.0.0": {
+        "runtime": {
+          "LicenseKey_template.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LicenseKey_template/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

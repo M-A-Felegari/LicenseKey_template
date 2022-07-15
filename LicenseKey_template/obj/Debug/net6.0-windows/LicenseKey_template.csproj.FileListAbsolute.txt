@@ -1,0 +1,17 @@
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\LicenseKey_template.csproj.AssemblyReference.cache
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\LicenseKey_template.MainForm.resources
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\LicenseKey_template.csproj.GenerateResource.cache
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\LicenseKey_template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\LicenseKey_template.AssemblyInfoInputs.cache
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\LicenseKey_template.AssemblyInfo.cs
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\LicenseKey_template.csproj.CoreCompileInputs.cache
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\bin\Debug\net6.0-windows\LicenseKey_template.exe
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\bin\Debug\net6.0-windows\LicenseKey_template.deps.json
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\bin\Debug\net6.0-windows\LicenseKey_template.runtimeconfig.json
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\bin\Debug\net6.0-windows\LicenseKey_template.dll
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\bin\Debug\net6.0-windows\LicenseKey_template.pdb
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\LicenseKey_template.dll
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\refint\LicenseKey_template.dll
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\LicenseKey_template.pdb
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\LicenseKey_template.genruntimeconfig.cache
+C:\Users\Alien\source\repos\LicenseKey_template\LicenseKey_template\obj\Debug\net6.0-windows\ref\LicenseKey_template.dll
