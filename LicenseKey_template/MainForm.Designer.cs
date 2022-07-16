@@ -49,6 +49,7 @@
             // 
             this.txtUserName.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtUserName.Location = new System.Drawing.Point(47, 51);
+            this.txtUserName.MaxLength = 20;
             this.txtUserName.Name = "txtUserName";
             this.txtUserName.PlaceholderText = "User Name ...";
             this.txtUserName.Size = new System.Drawing.Size(247, 27);
@@ -58,6 +59,7 @@
             // 
             this.txtLicenseKey.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtLicenseKey.Location = new System.Drawing.Point(47, 84);
+            this.txtLicenseKey.MaxLength = 16;
             this.txtLicenseKey.Name = "txtLicenseKey";
             this.txtLicenseKey.PlaceholderText = "License Key ...";
             this.txtLicenseKey.Size = new System.Drawing.Size(247, 27);

@@ -34,11 +34,13 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtSerialKey = new System.Windows.Forms.TextBox();
             this.btnCopy = new System.Windows.Forms.Button();
+            this.lblCopyState = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtUserName
             // 
             this.txtUserName.Location = new System.Drawing.Point(89, 12);
+            this.txtUserName.MaxLength = 20;
             this.txtUserName.Name = "txtUserName";
             this.txtUserName.Size = new System.Drawing.Size(197, 23);
             this.txtUserName.TabIndex = 0;
@@ -82,18 +84,29 @@
             // 
             // btnCopy
             // 
+            this.btnCopy.Enabled = false;
             this.btnCopy.Location = new System.Drawing.Point(292, 39);
             this.btnCopy.Name = "btnCopy";
             this.btnCopy.Size = new System.Drawing.Size(70, 23);
             this.btnCopy.TabIndex = 5;
             this.btnCopy.Text = "Copy";
             this.btnCopy.UseVisualStyleBackColor = true;
+            this.btnCopy.Click += new System.EventHandler(this.btnCopy_Click);
+            // 
+            // lblCopyState
+            // 
+            this.lblCopyState.AutoSize = true;
+            this.lblCopyState.Location = new System.Drawing.Point(309, 65);
+            this.lblCopyState.Name = "lblCopyState";
+            this.lblCopyState.Size = new System.Drawing.Size(0, 15);
+            this.lblCopyState.TabIndex = 6;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(372, 79);
+            this.ClientSize = new System.Drawing.Size(372, 87);
+            this.Controls.Add(this.lblCopyState);
             this.Controls.Add(this.btnCopy);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtSerialKey);
@@ -115,5 +128,6 @@
         private Label label2;
         private TextBox txtSerialKey;
         private Button btnCopy;
+        private Label lblCopyState;
     }
 }
